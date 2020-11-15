@@ -62,5 +62,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaravananVijayamuthu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Saravanan Vijayamuthu" />
 </a>
 </p>
-
-![dino](https://github.com/SaravananVijayamuthu/SaravananVijayamuthu/blob/master/dino.gif)
