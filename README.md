@@ -14,8 +14,8 @@
 
 - 💌 Reach me here **instagram.com/_imunn**
 
-<hr><p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" alt="firebase" width="30" height="30"/>
+<hr><p>
+<img src="https://devicon.dev/devicon.git/icons/android/android-plain.svg" alt="firebase" width="30" height="30"/>
 <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" alt="firebase" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react"  width="30" height="30"/>
@@ -23,6 +23,7 @@
 <img src="https://graphql.org/img/logo.svg" alt="GraphQL"  width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/>
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_firebasehosting.svg" alt="firebase" width="30" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="firebase" width="30" height="30"/>
 </p>
 
 
