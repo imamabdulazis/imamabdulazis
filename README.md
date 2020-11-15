@@ -24,6 +24,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/>
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_firebasehosting.svg" alt="firebase" width="30" height="30"/>
 <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="firebase" width="30" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="firebase" width="30" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="firebase" width="30" height="30"/>
 </p>
 
 
