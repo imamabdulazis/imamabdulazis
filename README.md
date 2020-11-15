@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm <a href ="https://saravananvijayamuthu.herokuapp.com/">Imam Abdul Azis</a> 👋</h1>
 <h3 align="center">Learning, Growing and Exploring the World</h3>
 <p align="center">  
-<a href="https://saravananvijayamuthu.herokuapp.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
-<a href="https://www.instagram.com/saravanan.vijayamuthu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
+<a href="https://github.com/imamabdulazis/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
+<a href="https://www.instagram.com/_imunn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
 <a href="https://www.linkedin.com/in/saravanan-vm/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
-<a href="https://medium.com/@saravananvijayamuthu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>  
+<a href="https://medium.com/@devopsimun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>  
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=SaravananVijayamuthu" alt="Saravanan Vijayamuthu"/></p>
 
