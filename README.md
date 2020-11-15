@@ -55,7 +55,7 @@
 
 <p align="center">
 <a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamabdulazis&theme=radical&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamabdulazis&theme=nightowl&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" />
 </a><br><br><br>
 <a href="#" onclick="return false;">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imamabdulazis&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Imam Abdul Azis" />
