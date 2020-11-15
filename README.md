@@ -49,7 +49,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java"  width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/>
-<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_2c52befe936478c77a89de8a141d07e7/zoho-creator.png" alt="Zoho Creator" width="50" height="40"/>
 </p>
 
 
