@@ -53,7 +53,7 @@
 
 
 
-<p align="center">
+<p>
 <a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamabdulazis&theme=nightowl&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" />
 </a><br><br><br>
