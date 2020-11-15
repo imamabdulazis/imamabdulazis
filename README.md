@@ -8,9 +8,9 @@
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=SaravananVijayamuthu" alt="Saravanan Vijayamuthu"/></p>
 
-- 💻 Currently working as FSD Intern **@DigiLocker**
+- 💻 Currently working as Mobile Developer Intern **@Varxid**
 
-- 🎯 I’m currently learning **Graphql, DevOps**
+- 🎯 I’m currently learning **Mobile Dev Expert, FullStack Dev**
 
 - 💌 Reach me here **instagram.com/_imunn**
 
