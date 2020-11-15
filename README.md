@@ -15,8 +15,10 @@
 - 💌 Reach me here **instagram.com/_imunn**
 
 <hr><p>
-<img src="https://devicon.dev/devicon.git/icons/android/android-plain.svg" alt="firebase" width="30" height="30"/>
-<img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" alt="firebase" width="30" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="firebase" width="30" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="firebase" width="30" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="firebase" width="30" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" alt="firebase" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react"  width="30" height="30"/>
 <img src="https://github.com/shgysk8zer0/logos/blob/master/vue.svg" alt="vue"  width="30" height="30"/>
