@@ -15,8 +15,7 @@
 - 💌 Reach me here **instagram.com/_imunn**
 
 <hr><p align="center">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="azure" width="30" height="30"/>
-</p>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
 <img src="https://github.com/AliasIO/Wappalyzer/blob/master/src/drivers/webextension/images/icons/Bootstrap.svg" alt="bootstrap" width="30" height="30"/>
