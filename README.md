@@ -3,7 +3,7 @@
 <p align="center">  
 <a href="https://github.com/imamabdulazis/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
 <a href="https://www.instagram.com/_imunn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
-<a href="https://www.linkedin.com/in/imam-abdul-azis-980309136/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saravanan Vijayamuthu" height="30" width="25" /></a>
+<a href="https://www.linkedin.com/in/imam-abdul-azis-980309136/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
 <a href="https://medium.com/@devopsimun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>  
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=imamabdulazis" alt="Imam Abdul Azis"/></p>
