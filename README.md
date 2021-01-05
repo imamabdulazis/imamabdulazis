@@ -1,4 +1,4 @@
-<h1>Hey, I'm <a href ="https://saravananvijayamuthu.herokuapp.com/">Imam Abdul Azis</a> 👋</h1>
+<h1>Hey, I'm <a href ="">Imam Abdul Azis</a> 👋</h1>
 <h3>Learning, Growing and Exploring the World</h3>
 <p>  
 <a href="https://github.com/imamabdulazis/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
