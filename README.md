@@ -15,19 +15,19 @@
 - 💌 Reach me here **instagram.com/_imunn**
 
 <hr><p>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="firebase" width="30" height="30"/>
-<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="firebase" width="30" height="30"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="firebase" width="30" height="30"/>
-<img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" alt="firebase" width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/javascript-original.svg?alt=media&token=faeb0a98-1fc0-49d9-a773-563966ed109f" alt="javascript" width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/typescript-original.svg?alt=media&token=a9db23c6-531a-455d-99fa-fab307a7f472" alt="typescript" width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/java-original.svg?alt=media&token=a32104bd-0fe4-4df6-9bf0-9f710657d9bd" alt="java" width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/swift-original.svg?alt=media&token=f76c44a0-76c7-4e96-9173-74a564cecc10" alt="swift" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react"  width="30" height="30"/>
-<img src="https://github.com/shgysk8zer0/logos/blob/master/vue.svg" alt="vue"  width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/react-original.svg?alt=media&token=d788655f-cf3f-4b94-a3f4-3de64af2d596" alt="react"  width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/vuejs-original.svg?alt=media&token=68012fd1-e5e6-43c1-b63f-c9b629875829" alt="vue"  width="30" height="30"/>
 <img src="https://graphql.org/img/logo.svg" alt="GraphQL"  width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/heroku-original.svg?alt=media&token=9fe4041e-de7b-45f1-a3b9-d579e13528fc" alt="heroku" width="30" height="30"/>
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_firebasehosting.svg" alt="firebase" width="30" height="30"/>
-<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="firebase" width="30" height="30"/>
-<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="firebase" width="30" height="30"/>
-<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="firebase" width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/sass-original.svg?alt=media&token=f3fc573f-b3d3-43ff-bc1f-399bf9544e29" alt="sass" width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/express-original.svg?alt=media&token=e2663416-f4a1-4eec-b911-db95aad8be27" alt="express" width="30" height="30"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/mongodb-original.svg?alt=media&token=ac1d64d3-c200-449e-aeb9-fa3dff010430" alt="mongodb" width="30" height="30"/>
 </p>
 
 
