@@ -8,7 +8,7 @@
 </p>
 <p>  <img src="https://komarev.com/ghpvc/?username=imamabdulazis" alt="Imam Abdul Azis"/></p>
 
-- 💻 Currently working as Mobile Developer Intern **@Varxid**
+- 💻 Currently working as Mobile Developer Intern <a href="https://varx.id">**Varxid**</a>
 
 - 🎯 I’m currently learning **Mobile Dev Expert, FullStack Dev**
 
