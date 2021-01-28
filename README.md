@@ -10,7 +10,7 @@
 
 - 💻 Currently working as Mobile Developer Intern <a href="https://varx.id">**Varxid**</a>
 
-- 🎯 I’m currently learning **Mobile Dev Expert, FullStack Dev**
+- 🎯 I’m currently learning **Mobile Dev, FullStack Dev**
 
 - 💌 Reach me here **instagram.com/_imunn**
 
