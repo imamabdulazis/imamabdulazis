@@ -30,14 +30,12 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/mongodb-original.svg?alt=media&token=ac1d64d3-c200-449e-aeb9-fa3dff010430" alt="mongodb" width="30" height="30"/>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=imamabdulazis)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<p>
 <a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamabdulazis&theme=default&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" />
 </a>
   <a href="#" onclick="return false;">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imamabdulazis&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Imam Abdul Azis" />
 </a>
-</p>
 
