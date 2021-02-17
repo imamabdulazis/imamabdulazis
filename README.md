@@ -1,5 +1,9 @@
 <h1>Hey, I'm <a href ="">Imam Abdul Azis</a> 👋</h1>
-<h3>Learning, Growing and Exploring the World</h3>
+
+### Hi there 👋
+
+### I'm Imam, a passionate Mobile Developer currently working with Flutter.
+
 <p>  
 <a href="https://github.com/imamabdulazis/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
 <a href="https://www.instagram.com/_imunn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
@@ -8,11 +12,12 @@
 </p>
 <p>  <img src="https://komarev.com/ghpvc/?username=imamabdulazis" alt="Imam Abdul Azis"/></p>
 
-- 💻 Currently working as Mobile Developer Intern <a href="https://varx.id">**Varxid**</a>
-
-- 🎯 I’m currently learning **Mobile Dev, FullStack Dev**
-
-- 💌 Reach me here **instagram.com/_imunn**
+- 🔭  I’m currently working at [Varx](https://varx.id/).
+- 📖  Currently learning: Mobile Dev, FullStack Dev
+- 👯  I’m looking to collaborate on open-source projects.
+- 📫  How to reach me: [Twitter](https://twitter.com/sumbrah)
+- 😄  Pronouns: He/His
+- ⚡ Fun fact: I don't drink Coffee, it makes me asleep
 
 <hr><p>
 <img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/javascript-original.svg?alt=media&token=faeb0a98-1fc0-49d9-a773-563966ed109f" alt="javascript" width="30" height="30"/>
