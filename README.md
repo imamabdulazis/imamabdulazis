@@ -1,7 +1,5 @@
 <h1>Hey, I'm <a href ="">Imam Abdul Azis</a> 👋</h1>
 
-### Hi there 👋
-
 ### I'm Imam, a passionate Mobile Developer currently working with Flutter.
 
 <p>  
