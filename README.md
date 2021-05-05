@@ -1,6 +1,6 @@
 <h1>Hey, I'm <a href ="">Imam Abdul Azis</a> 👋</h1>
 
-### I'm a passionate Mobile Developer currently working with Flutter.
+### I'm a passionate Mobile Developer and currently working with Flutter.
 
 <p>  
 <a href="https://github.com/imamabdulazis/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
