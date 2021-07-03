@@ -1,14 +1,11 @@
-<h1>Hey, I'm <a href ="">Imam Abdul Azis</a> 👋</h1>
+<h1>Hey, I'm <a href ="">Imam</a> 👋</h1>
 
-### I'm a passionate Mobile Developer and currently working with Flutter.
+<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 
-<p>  
-<a href="https://github.com/imamabdulazis/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
-<a href="https://www.instagram.com/_imunn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
-<a href="https://www.linkedin.com/in/imam-abdul-azis-980309136/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>
-<a href="https://medium.com/@devopsimun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Imam Abdul Azis" height="30" width="25" /></a>  
-</p>
+**Hey there, welcome!**</br>
+**I'm Imam, Front End developer from  Pekalongan, Indonesia.**
 <p>  <img src="https://komarev.com/ghpvc/?username=imamabdulazis" alt="Imam Abdul Azis"/></p>
+
 
 - 🔭  I’m currently working at [Varx](https://varx.id/).
 - 📖  Currently learning: Mobile Dev, FullStack Dev
@@ -17,27 +14,53 @@
 - 😄  Pronouns: He/His
 - ⚡ Fun fact: I don't drink Coffee, it makes me asleep
 
-<hr><p>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/javascript-original.svg?alt=media&token=faeb0a98-1fc0-49d9-a773-563966ed109f" alt="javascript" width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/typescript-original.svg?alt=media&token=a9db23c6-531a-455d-99fa-fab307a7f472" alt="typescript" width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/java-original.svg?alt=media&token=a32104bd-0fe4-4df6-9bf0-9f710657d9bd" alt="java" width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/swift-original.svg?alt=media&token=f76c44a0-76c7-4e96-9173-74a564cecc10" alt="swift" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/react-original.svg?alt=media&token=d788655f-cf3f-4b94-a3f4-3de64af2d596" alt="react"  width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/vuejs-original.svg?alt=media&token=68012fd1-e5e6-43c1-b63f-c9b629875829" alt="vue"  width="30" height="30"/>
-<img src="https://graphql.org/img/logo.svg" alt="GraphQL"  width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/heroku-original.svg?alt=media&token=9fe4041e-de7b-45f1-a3b9-d579e13528fc" alt="heroku" width="30" height="30"/>
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_firebasehosting.svg" alt="firebase" width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/sass-original.svg?alt=media&token=f3fc573f-b3d3-43ff-bc1f-399bf9544e29" alt="sass" width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/express-original.svg?alt=media&token=e2663416-f4a1-4eec-b911-db95aad8be27" alt="express" width="30" height="30"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/githubreadme-2bbd7.appspot.com/o/mongodb-original.svg?alt=media&token=ac1d64d3-c200-449e-aeb9-fa3dff010430" alt="mongodb" width="30" height="30"/>
+<hr>
+<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
+<p>
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1572B6?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+  <img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
+
+<h2>🌎 &nbsp;Where to find me</h2>
+<p>
+  <a href="https://github.com/imamabdulazis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/imam-abdul-azis-980309136" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:devopsimun@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_imunn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<h2>🏆 &nbsp; Some Github Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imamabdulazis)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Here's My Statistics
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamabdulazis&theme=default&layout=compact&count_private=true&hide=jupyter%20notebook,php,asp,css&langs_count=10" />
+<h2>📈 &nbsp; Here's My Statistics</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imamabdulazis&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Imam Abdul Azis" />
+<span align="left">
+
+![imamabdulazis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imamabdulazis&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+<span align="right">
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imamabdulazis&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+</span>
 
 
