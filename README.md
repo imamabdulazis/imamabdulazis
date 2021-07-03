@@ -3,8 +3,10 @@
 <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 
 **Hey there, welcome!**</br>
-**I'm Imam, Front End developer from  Pekalongan, Indonesia.**
+<hp>I'm Imam, Front End developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Indonesia_%28bordered%29.svg/600px-Flag_of_Indonesia_%28bordered%29.svg.png" width="14px"/> <b>Pekalongan, Indonesia</b>.
+  	</hp>
 <p>  <img src="https://komarev.com/ghpvc/?username=imamabdulazis" alt="Imam Abdul Azis"/></p>
+
 
 
 - 🔭  I’m currently working at [Varx](https://varx.id/).
