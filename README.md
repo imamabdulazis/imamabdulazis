@@ -9,7 +9,7 @@
 
 
 
-- 🔭  I’m currently working at [Varx](https://varx.id/).
+- 🔭  I’m currently working at [Smartfren](https://www.smartfren.com/).
 - 📖  Currently learning: Mobile Dev, FullStack Dev
 - 👯  I’m looking to collaborate on open-source projects.
 - 📫  How to reach me: [Twitter](https://twitter.com/sumbrah)
