@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/39134128/130887741-4c38b7f9-24a2-47d6-b557-6d92ae5fd9ca.gif" width="35px" />&nbsp;<b>Hi, I'm Imam</b>
 
-<img align="right" src="https://user-images.githubusercontent.com/39134128/124638968-ca55ce80-deb5-11eb-8799-e30bf6775840.png" width="200"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/39134128/124638968-ca55ce80-deb5-11eb-8799-e30bf6775840.png" width="200"/> -->
 
 **Hey there, welcome!**</br>
 <hp>I'm Imam, Front End developer from <img src="https://user-images.githubusercontent.com/39134128/124639115-f96c4000-deb5-11eb-94d4-4fd999c764d3.png" width="14px"/> <b>Pekalongan, Indonesia</b>.
@@ -51,9 +51,9 @@
   <a href="https://www.instagram.com/_imunn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h2>🏆 &nbsp; Some Github Trophy</h2>
+<!-- <h2>🏆 &nbsp; Some Github Trophy</h2> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imamabdulazis)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=imamabdulazis)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>📈 &nbsp; Here's My Statistics</h2>
 
@@ -63,6 +63,6 @@
 </span>
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imamabdulazis&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
+</span> -->
 
 
