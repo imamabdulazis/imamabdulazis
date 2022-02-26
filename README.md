@@ -12,7 +12,7 @@
 <!-- - 🔭  I’m currently working at [Smartfren](https://www.smartfren.com/). -->
 - 📖  Currently learning: Mobile Dev, FullStack Dev
 - 👯  I’m looking to collaborate on open-source projects.
-- 📫  How to reach me: [Twitter](https://twitter.com/sumbrah)
+- 📫  How to reach me: [Twitter](https://twitter.com/_imunnn)
 - 😄  Pronouns: He/His
 - ⚡ Fun fact: I don't drink Coffee, it makes me asleep
 
@@ -45,7 +45,6 @@
 
 <h2>🌎 &nbsp;Where to find me</h2>
 <p>
-  <a href="https://github.com/imamabdulazis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/imam-abdul-azis-980309136" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:devopsimun@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/_imunn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
