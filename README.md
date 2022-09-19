@@ -3,7 +3,7 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/39134128/124638968-ca55ce80-deb5-11eb-8799-e30bf6775840.png" width="200"/> -->
 
 **Hey there, welcome!**</br>
-<hp>I'm Imam, Front End developer from <img src="https://user-images.githubusercontent.com/39134128/124639115-f96c4000-deb5-11eb-94d4-4fd999c764d3.png" width="14px"/> <b>Pekalongan, Indonesia</b>.
+<hp>I'm Imam, Frontend developer from <img src="https://user-images.githubusercontent.com/39134128/124639115-f96c4000-deb5-11eb-94d4-4fd999c764d3.png" width="14px"/> <b>Pekalongan, Indonesia</b>.
   	</hp>
 <p>  <img src="https://komarev.com/ghpvc/?username=imamabdulazis&color=blueviolet" alt="Imam Abdul Azis"/></p>
 
