@@ -12,7 +12,6 @@
 - 🔭  I’m currently working at [Worlder TEAM Singapore](https://worldergroup.com/).
 - 📖  Currently learning: Mobile Dev, FullStack Dev
 - 👯  I’m looking to collaborate on open-source projects.
-- 📫  How to reach me: [Twitter](https://twitter.com/_imunnn)
 - 😄  Pronouns: He/His
 - ⚡ Fun fact: I don't drink Coffee, it makes me asleep
 
@@ -50,9 +49,9 @@
   <a href="https://www.instagram.com/_imunn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<!-- <h2>🏆 &nbsp; Some Github Trophy</h2> -->
+<h2>🏆 &nbsp; Some Github Trophy</h2>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=imamabdulazis)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imamabdulazis)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>📈 &nbsp; Here's My Statistics</h2>
 
@@ -62,6 +61,6 @@
 </span>
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imamabdulazis&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span> -->
+</span> 
 
 
