@@ -9,7 +9,7 @@
 
 
 
-- 🔭  I’m currently working at [Worlder TEAM Singapore](https://worldergroup.com/).
+- 🔭  I’m currently working at [Worlder TEAM](https://worldergroup.com/).
 - 📖  Currently learning: Mobile Dev, FullStack Dev
 - 👯  I’m looking to collaborate on open-source projects.
 - 😄  Pronouns: He/His
@@ -42,25 +42,5 @@
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
 
-<h2>🌎 &nbsp;Where to find me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/imam-abdul-azis-980309136" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:devopsimun@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_imunn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<h2>🏆 &nbsp; Some Github Trophy</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imamabdulazis)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h2>📈 &nbsp; Here's My Statistics</h2>
-
-<span align="left">
-
-![imamabdulazis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imamabdulazis&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imamabdulazis&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span> 
 
 
