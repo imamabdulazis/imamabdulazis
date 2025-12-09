@@ -1,38 +1,48 @@
-name: Generate Snake Animation
+# .github/workflows/snake-no-token.yml
+name: Generate Snake Without Token
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
-    - cron: "0 0 * * *"
-  
-  # Allows manual trigger
+    - cron: "0 0 * * *"  # Daily
   workflow_dispatch:
-  
-  # Runs on every push to main
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v3
-      
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          persist-credentials: false  # Important!
       
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Generate Snake
+        run: |
+          # Create simple snake SVG manually
+          mkdir -p output
+          cat > output/snake.svg << 'EOF'
+          <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+            <style>
+              @keyframes move {
+                0% { transform: translate(0, 0); }
+                25% { transform: translate(200px, 50px); }
+                50% { transform: translate(400px, 0); }
+                75% { transform: translate(600px, 50px); }
+                100% { transform: translate(800px, 0); }
+              }
+              .snake { fill: #00ff00; animation: move 10s linear infinite; }
+            </style>
+            <rect width="800" height="200" fill="#0d1117"/>
+            <circle class="snake" cx="20" cy="100" r="15"/>
+            <circle class="snake" cx="0" cy="100" r="15" style="animation-delay: -0.5s"/>
+            <circle class="snake" cx="-20" cy="100" r="15" style="animation-delay: -1s"/>
+          </svg>
+          EOF
+      
+      - name: Commit and Push Directly
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push origin HEAD:main
