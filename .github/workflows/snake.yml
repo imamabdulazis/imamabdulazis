@@ -1,4 +1,3 @@
-# .github/workflows/snake-no-token.yml
 name: Generate Snake Without Token
 
 on:
