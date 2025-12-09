@@ -1,47 +1,42 @@
-name: Generate Snake Without Token
+name: Generate Datas
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Daily
-  workflow_dispatch:
+  workflow_dispatch: # execute manually
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
 jobs:
-  generate:
+
+  summary-cards:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v2
+
+      - name: Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          persist-credentials: false  # Important!
-      
-      - name: Generate Snake
-        run: |
-          # Create simple snake SVG manually
-          mkdir -p output
-          cat > output/snake.svg << 'EOF'
-          <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-            <style>
-              @keyframes move {
-                0% { transform: translate(0, 0); }
-                25% { transform: translate(200px, 50px); }
-                50% { transform: translate(400px, 0); }
-                75% { transform: translate(600px, 50px); }
-                100% { transform: translate(800px, 0); }
-              }
-              .snake { fill: #00ff00; animation: move 10s linear infinite; }
-            </style>
-            <rect width="800" height="200" fill="#0d1117"/>
-            <circle class="snake" cx="20" cy="100" r="15"/>
-            <circle class="snake" cx="0" cy="100" r="15" style="animation-delay: -0.5s"/>
-            <circle class="snake" cx="-20" cy="100" r="15" style="animation-delay: -1s"/>
-          </svg>
-          EOF
-      
-      - name: Commit and Push Directly
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          git commit -m "Update snake animation" || echo "No changes to commit"
-          git push origin HEAD:main
+          USERNAME: ${{ github.repository_owner }}
+          
+  snake-animation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@main
+        id: snake-gif
+        with:
+          github_user_name:  ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Publish Snake Animation SVG
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
